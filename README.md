@@ -1,5 +1,5 @@
-# 15-112-term-project
-Term project from Carnegie Mellon's 15-112 Fundamentals of Programming and Computer Science which I took [spring 2017](https://www.kosbie.net/cmu/spring-17/15-112/index-s17.html). A video demo can be seen [here](https://www.youtube.com/watch?v=YGtb-YMbtf8).
+# 15-112 Term Project
+My term project from Carnegie Mellon's 15-112 Fundamentals of Programming and Computer Science which I took [spring 2017](https://www.kosbie.net/cmu/spring-17/15-112/index-s17.html). A video demo of it in all its glory can be seen [here](https://www.youtube.com/watch?v=YGtb-YMbtf8).
 
 From my submitted readme:
 > Installation:  
