@@ -1,0 +1,14 @@
+Preston Vander Vos
+Term Project Design Overview
+
+The problem I am trying to solve is helping people with color vision deficiency. My grandparents, dad, and brother
+all suffer from color vision deficiency. Growing up, I always got the question about what color certain clothes are 
+especially when it came to finding ties that matched dress up clothes. Playing Uno once, my grandfather laid down
+a wild card and determined the next color to be played as 'purple' (which is not red, green, blue, or yellow). My
+brother also brought home a drawing from elementary school where the sun was lime green and the grass was yellow.
+I aimed at solving this problem of not knowing what color something was.
+
+I approached solving this problem by first creating a color vision test. This allows a user to know what
+type of color vision deficiency that they may suffer from. Next, I allow a user to upload an image and determine 
+what color, by name, is at any location of the image. Finally, I allow the user to upload any two images and determine
+if colors of the two images are the same or matching. 

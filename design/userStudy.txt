@@ -1,0 +1,10 @@
+Preston Vander Vos
+Term Project User Study Feedback
+
+The last class before the project was due, we held a mini user study. I got great feedback on my project.
+Unfortunately, I do not have the time to implement the suggestions that I received. The main suggestion was to
+turn all of the places you press to move through the application into buttons. Currently they are just drawn 
+rectangles and circles, but buttons would allow the user to hopefully more clearly navigate their way through
+the application. Other than that, I was told to increase the font size certain places and to bold other text.
+The small changes like those, I did do. The last change I made from the user study was to make all of the
+'buttons' on my home screen have a fill of white so they clearly stood out from the background.

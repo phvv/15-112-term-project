@@ -1,0 +1,52 @@
+Preston Vander Vos
+Term Project Competitive Analysis
+
+Vischeck-
+Good features:
+-able to upload image and see it as a color vision deficient person would
+-able to change between three different types of color vision deficiency
+-very quick processing
+-said to wait when it was processing image
+-examples with clear pictures in general info page
+-had a FAQ page with tons of information
+Bad features:
+-function for altering colors to help color blind people was not working
+-function for doing processing on web browers was not working as well
+-after every image processed, you need to repick the image and the filter, they do not stay
+
+
+Toptal Color Blind Filter-
+Good features:
+-clear display of how web browser page changed color
+-filter for four types of color vision deficiency
+Bad features:
+-displays original web browser page and filtered page
+-slow in processing
+-have to type in url of website so it can fetch it
+-cannot interact with web browser page, can only visually see it
+
+Color Oracle-
+Good features:
+-puts filter over entire screen
+-runs on what you pull up
+-choose between three types of color vision deficiency
+Bad features:
+-hard to switch between filters
+-designed for designers and not the general public
+
+Adobe Photoshop CC 2017-
+Good features:
+-able to apply filter to current work to see what color blind person sees
+-very fast processing, almost seamless
+Bad features:
+-not able to print work, only temporary filter
+-only for two forms of color vision deficiency albeit the most common two forms
+
+Get Colors from Image (BETA)-
+Good features:
+-able to upload image of your choosing
+-easy to understand directions for usage
+-very good results
+-enlarged tapped image so you could clearly pic the exact location of the color you desired
+Bad featues:
+-pictures upload grainy and blurred sometimes
